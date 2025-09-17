@@ -40,8 +40,14 @@ draft: false
 重启服务，**再建库**：
 
 ```sql
-CREATE DATABASE jeecg_boot DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE `jeecg-boot` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 ```
+
+`jeecg-boot` 里有 **连字符 `-`**。
+
+在 MySQL 里，数据库名（其实就是一个目录名）如果包含 `-` 这样的特殊字符，是需要 **用反引号括起来** 才能创建的，比如：
+否则 MySQL 会把 `-` 当作减号运算符，导致语法错误。
+👉 建议：如果必须用连字符，就记得用反引号括起来。
 
 3. **Redis 6.2.19**
    默认端口 6379，无密码即可；如有密码后续在 yml 里改。
