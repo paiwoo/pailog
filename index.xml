@@ -74,7 +74,15 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;strong&gt;更新&lt;/strong&gt;：2025-09-08&lt;/p&gt;</description></item><item><title>拿到编码的 URL 怎么办</title><link>https://paiwoo.github.io/pailog/tech/deal-with-encoded-url/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/deal-with-encoded-url/</guid><description>&lt;hr&gt;
 &lt;p&gt;🔗 拿到编码的 URL 怎么办？3 秒搞定！&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;关键词：URL 编码、Percent-Encoding、C#、HttpUtility、WebUtility&lt;/p&gt;</description></item><item><title>验签失败？C#默认排序坑</title><link>https://paiwoo.github.io/pailog/tech/ascii-sign-bug/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/ascii-sign-bug/</guid><description>&lt;p&gt;🔐 验签失败？SortedDictionary 默认排序 ≠ ASCII 序 —— .NET 4 踩坑记录&lt;/p&gt;</description></item><item><title>🚀 unibest 极速起步 · 微信小程序</title><link>https://paiwoo.github.io/pailog/tech/unibest-mp-start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/unibest-mp-start/</guid><description>&lt;h1 class="relative group"&gt;🚀 unibest 极速起步 · 微信小程序（wot-ui 版）
+&lt;p&gt;关键词：URL 编码、Percent-Encoding、C#、HttpUtility、WebUtility&lt;/p&gt;</description></item><item><title>验签失败？C#默认排序坑</title><link>https://paiwoo.github.io/pailog/tech/ascii-sign-bug/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/ascii-sign-bug/</guid><description>&lt;p&gt;🔐 验签失败？SortedDictionary 默认排序 ≠ ASCII 序 —— .NET 4 踩坑记录&lt;/p&gt;</description></item><item><title>🚀 unibest 模板 快速修改</title><link>https://paiwoo.github.io/pailog/tech/unibest-develop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/unibest-develop/</guid><description>&lt;h1 class="relative group"&gt;unibest 模板 → 青草地健康中心 快速改完清单
+&lt;div id="unibest-模板--青草地健康中心-快速改完清单" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#unibest-%e6%a8%a1%e6%9d%bf--%e9%9d%92%e8%8d%89%e5%9c%b0%e5%81%a5%e5%ba%b7%e4%b8%ad%e5%bf%83-%e5%bf%ab%e9%80%9f%e6%94%b9%e5%ae%8c%e6%b8%85%e5%8d%95" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自用对照表，按顺序打钩即可上线&lt;/p&gt;</description></item><item><title>🚀 unibest 极速起步 · 微信小程序</title><link>https://paiwoo.github.io/pailog/tech/unibest-mp-start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/unibest-mp-start/</guid><description>&lt;h1 class="relative group"&gt;🚀 unibest 极速起步 · 微信小程序（wot-ui 版）
 &lt;div id="-unibest-极速起步--微信小程序wot-ui-版" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -82,7 +90,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;5 分钟跑通开发 → 预览 → 热更全流程；基于目前 GitHub 最活跃的 uni-app 模板之一，集成 Vue3 + TS + Vite5 + UnoCSS + wot-ui，为「一套代码、多端发布」提供现代化解决方案。&lt;/p&gt;</description></item><item><title>🚀 JeecgBoot springboot3-3.8.2 极速踩坑实录</title><link>https://paiwoo.github.io/pailog/tech/jeecgboot-start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/jeecgboot-start/</guid><description>&lt;hr&gt;
+&lt;p&gt;5 分钟跑通开发 → 预览 → 热更全流程；基于目前 GitHub 最活跃的 uni-app 模板之一，集成 Vue3 + TS + Vite5 + UnoCSS + wot-ui，为「一套代码、多端发布」提供现代化解决方案。&lt;/p&gt;</description></item><item><title>VS Code - 解决 “pnpm 无法加载脚本</title><link>https://paiwoo.github.io/pailog/tech/vscode-terminal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/vscode-terminal/</guid><description>&lt;h2 class="relative group"&gt;1. 问题现象
+&lt;div id="1-问题现象" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-%e9%97%ae%e9%a2%98%e7%8e%b0%e8%b1%a1" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;在 VS Code 的 PowerShell 终端执行&lt;/p&gt;</description></item><item><title>🚀 JeecgBoot springboot3-3.8.2 极速踩坑实录</title><link>https://paiwoo.github.io/pailog/tech/jeecgboot-start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://paiwoo.github.io/pailog/tech/jeecgboot-start/</guid><description>&lt;hr&gt;
 &lt;h1 class="relative group"&gt;🚀 JeecgBoot springboot3-3.8.2 极速踩坑实录
 &lt;div id="-jeecgboot-springboot3-382-极速踩坑实录" class="anchor"&gt;&lt;/div&gt;
 &lt;span
